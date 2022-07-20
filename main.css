@@ -1,0 +1,26 @@
+body {
+
+}
+
+button{
+    height:80px;
+    box-shadow: 1px 1px 10px black; 
+    border:none;   
+    background:linear-gradient(to bottom, grey, black, grey);
+    color:white;
+}
+
+#keypad{
+    /* height:500px;  */
+    width:300px; 
+    background:red; 
+    margin:0 auto;
+    margin-top:100px;
+}
+
+
+#result_box{
+    margin:0 auto;
+    border:3px solid black;
+    width:320px; 
+}
